@@ -1,22 +1,25 @@
 <p align="center">
-  <img src="icon.png" width="96" height="96" alt="Patrimony logo">
+  <a href="https://getpatrimony.com">
+    <img src="docs/img/logo.svg" alt="Patrimony" width="320">
+  </a>
 </p>
 
-<h1 align="center">Patrimony</h1>
-<p align="center"><strong>Track your net worth, one month at a time.</strong></p>
+<h3 align="center">Track your net worth, one month at a time.</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/habit-monthly-6366f1.svg" alt="A monthly habit">
+  <img src="https://img.shields.io/badge/accounts-multi--currency-1f2937.svg" alt="Multi-currency accounts">
+  <img src="https://img.shields.io/badge/install-PWA-0e7490.svg" alt="Installable PWA">
+  <img src="https://img.shields.io/badge/tracking-none%20before%20login-0f766e.svg" alt="No third-party tracking scripts before login">
+</p>
 
 <p align="center">
   <a href="https://getpatrimony.com">getpatrimony.com</a> ·
-  <a href="https://gabremoku.github.io/patrimony/">Landing page</a> ·
-  <a href="https://getpatrimony.com/learn">How it works</a>
+  <a href="https://flaeren.github.io/patrimony/">Landing page</a> ·
+  <a href="https://getpatrimony.com/learn">How it works</a> ·
+  <a href="#what-it-does">What it does</a> ·
+  <a href="#built-to-be-calm-not-addictive">Philosophy</a>
 </p>
-
-<p align="center">
-  <a href="https://www.mywot.com/scorecard/gabremoku.github.io%2Fpatrimony%2F"><img src="https://img.shields.io/badge/WOT-Verified%20Site-3cb878" alt="WOT Verified Site"></a>
-</p>
-
----
-
 Patrimony is a personal net worth tracker built around a calm monthly
 habit — not daily market-watching, not linked bank feeds. Each month you
 enter the current value of your accounts, and Patrimony turns that into a
@@ -48,12 +51,12 @@ any time, and deleted whenever you want.
 
 ## This repository
 
-This repo only hosts the public [landing page](https://gabremoku.github.io/patrimony/)
+This repo only hosts the public [landing page](https://flaeren.github.io/patrimony/)
 — a single self-contained `index.html`, no build step, no external
 requests. The app itself runs at [getpatrimony.com](https://getpatrimony.com).
 
 ---
 
-<p align="center">
-  A project by <a href="https://gabrieledenaro.com/chi-sono">Gabriele Denaro</a>.
-</p>
+---
+
+<p align="center"><sub>Made by Gabriele Denaro · <a href="https://github.com/Flaeren">GitHub: Flaeren</a> · <a href="https://gabrieledenaro.com">gabrieledenaro.com</a></sub></p>
